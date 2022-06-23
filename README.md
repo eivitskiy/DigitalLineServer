@@ -37,7 +37,7 @@ mkdir DigitalLine && cd DigitalLine
 
 Внутри папки выполним команду клонирования репозитория и перейдём внутрь новой папки
 ```bash
-git clone git@github.com:eivitskiy/DigitalLine.git server && cd server
+git clone git@github.com:eivitskiy/DigitalLineServer.git server && cd server
 ```
 
 ### Конфигурирование
